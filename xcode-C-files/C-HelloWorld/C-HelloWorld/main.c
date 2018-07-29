@@ -2,8 +2,8 @@
 //  main.c
 //  C-HelloWorld
 //
-//  Created by Admin on 7/29/18.
-//  Copyright © 2018 LTCHHW. All rights reserved.
+//  Created by C-Liom on 7/29/18.
+//
 //
 
 //#include <stdio.h>
